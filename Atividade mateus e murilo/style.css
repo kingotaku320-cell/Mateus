@@ -1,0 +1,29 @@
+*{
+    margin: 10;
+    padding: 10;
+    box-sizing: border-box;
+}
+body.doto-{
+  font-family: "Doto", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "ROND" 0;
+}
+
+body{
+    color: rgb(255, 255, 255);
+    background-color: #000;
+    text-align: center;
+    height: 100vh;
+}
+button{
+    cursor: pointer;
+    border-color: rgb(255, 0, 0);
+
+}
+button:hover{
+    background-color: blue;
+    color: yellow;
+    
+}
